@@ -1,0 +1,4 @@
+from dao import create_product_table_Product, create_product_table_Usuario
+
+create_product_table_Product()
+create_product_table_Usuario()
